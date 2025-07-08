@@ -1,3 +1,0 @@
-C:/Users/User/Downloads/final_project_kw_dyon_richard/final_project_kw_dyon_richard/cmake-build-debug/CMakeFiles/main.dir
-C:/Users/User/Downloads/final_project_kw_dyon_richard/final_project_kw_dyon_richard/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/Downloads/final_project_kw_dyon_richard/final_project_kw_dyon_richard/cmake-build-debug/CMakeFiles/rebuild_cache.dir
